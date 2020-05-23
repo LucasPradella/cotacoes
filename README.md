@@ -1,14 +1,14 @@
-# cotacoes
+# Cotações
 Projeto cotações | estudo NodeJS
 
 
-# Para executar configure as dependencias 
+# Para executar
 ##  entre no projeto /web-server
 `.\web-server\`  
 
-## depois execute
+## depois configure as dependencias 
 `npm i`
 
-# depois execute 
+### depois execute 
 `npm start`
 
