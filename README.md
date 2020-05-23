@@ -1,4 +1,4 @@
-# cotacoes
+# Cotações
 Projeto cotações | estudo NodeJS
 
 
